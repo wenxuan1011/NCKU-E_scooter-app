@@ -1,5 +1,4 @@
 # NCKU-E_scooter-app
-**Collaborate with start-up & designer trying to create an unearth Sharing Scooter app exclusively for Students from NCKU.**
 
 + **Check this out :** [About Us](https://luffy.ee.ncku.edu.tw/~santaboi/NCKU_E_Scooter/about_us.html) 
 ## How to Run
