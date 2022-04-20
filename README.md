@@ -12,7 +12,7 @@ $npm i
 $yarn
 ```
 ### Preprocess
-
+simply run `a.` can make about_us worked.
 **a. utilize Parcel to watch `about_us.pug` `about_us.sass` simultaneously , with `hot-reloading`**
 ```shell=
 $npm run watch
