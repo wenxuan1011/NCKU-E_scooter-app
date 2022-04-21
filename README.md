@@ -2,7 +2,7 @@
 
 + **Check this out :** [About Us](https://luffy.ee.ncku.edu.tw/~santaboi/NCKU_E_Scooter/about_us.html) 
 ## How to Run
-### 1. Clone this Repo
+### 1. Git clone this Repo
 ### 2. Build Environment
 **way1: try this if you have yarn(highly recommended)**
 ```shell=
