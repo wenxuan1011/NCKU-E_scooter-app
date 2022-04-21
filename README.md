@@ -39,6 +39,13 @@ NCKU-E_Scooter/
     └── package.json        # NPM details (configuration)
 ```
 
+## Contributer
+Name          |  Position | 
+--------------|:-----:|
+Yang , Fan Chiang    | Engineer |
+Chun Wei , Shen   | Engineer |
+Christine, Ma  | Designer |
+Cheng Shrin , Yang  | Engineer |
 
 ## More Details about Preprocessor
 + **Parcel** https://parceljs.org/features/targets/#targets
