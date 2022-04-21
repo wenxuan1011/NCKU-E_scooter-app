@@ -1,6 +1,6 @@
 # NCKU-E_scooter
 
-+ **Check this out :** [About Us](https://luffy.ee.ncku.edu.tw/~santaboi/NCKU_E_Scooter/about_us.html) 
++ **Check this out :** [About Us](https://luffy.ee.ncku.edu.tw/~santaboi/NCKU_E_Scooter/dist/parcel/about_us.html) 
 ## How to Run
 ### 1. Git clone this Repo
 ### 2. Build Environment
