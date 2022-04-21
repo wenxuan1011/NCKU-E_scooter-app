@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "about_us",
   "scripts": {
-    "compile_pug": "./node_modules/.bin/pug ./about_us/about_us.pug -o ./about_us/dist/ -P",
-    "compile_sass": "./node_modules/.bin/node-sass ./about_us/about_us.sass -o ./about_us/dist/ -p",
-    "watch": "./node_modules/.bin/parcel watch ./about_us/about_us.pug --dist-dir ./about_us/dist",
-    "server": "parcel about_us/dist/index.pug --port 1768"
+    "compile_pug": "./node_modules/.bin/pug ./parcel/about_us.pug -o ./dist/parcel -P",
+    "compile_sass": "./node_modules/.bin/node-sass ./parcel/about_us.sass -o ./dist/parcel -p",
+    "watch": "parcel watch parcel/about_us.pug --dist-dir dist/parcel/ --public-url ./ ",
+    "server": "parcel parcel/about_us.pug --port 1799"
   },
   "repository": {
     "type": "git",
@@ -30,7 +30,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.0",
-    "@parcel/transformer-pug": "2.4.1",
-    "@parcel/transformer-sass": "2.4.1"
+    "@parcel/transformer-pug": "2.5.0",
+    "@parcel/transformer-sass": "2.5.0",
+    "pug": "^3.0.2",
+    "sass": "^1.50.1"
   }
 }
