@@ -28,7 +28,7 @@ $npm run server
 + if you run `$npm run server` you can access by `http://localhost:1799`
 + Or just simply access with it's public url `https://luffy.ee.ncku.edu.tw/~santaboi/NCKU_E_Scooter/dist/parcel/about_us.html`
 
-### Repo Structure
+## Repo Structure
 ```
 NCKU-E_Scooter/
     ├── parcel/             # about_us source code (PUG SASS)
@@ -42,10 +42,10 @@ NCKU-E_Scooter/
 ## Contributer
 Name          |  Position | 
 --------------|:-----:|
-Yang , Fan Chiang    | Engineer |
-Chun Wei , Shen   | Engineer |
+[Yang , Fan Chiang](https://github.com/santaboi)    | Engineer |
+[Chun Wei , Shen](https://github.com/ShenChunWei)   | Engineer |
 Christine, Ma  | Designer |
-Cheng Shrin , Yang  | Engineer |
+[Cheng Shrin , Yang](https://github.com/ArthurYangc)  | Engineer |
 
 ## More Details about Preprocessor
 + **Parcel** https://parceljs.org/features/targets/#targets
